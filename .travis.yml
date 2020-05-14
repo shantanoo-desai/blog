@@ -4,7 +4,7 @@ install:
   - sudo dpkg -i hugo_extended_0.70.0_Linux-64bit.deb
 
 script:
-  - hugo -e production
+  - hugo
 
 deploy:
   - provider: script
