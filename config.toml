@@ -1,0 +1,84 @@
+baseURL = "http://example.org/"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+# language code
+languageCode = "en"
+title = "Shan's Corner"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+[params]
+  # LoveIt theme version
+  version = "0.2.X"
+  description = "Shan's World"
+  defaultTheme = "dark"
+  dateFormat = "02-01-2006"
+
+  [params.app]
+    title = "Shan's World"
+
+  [params.search]
+    enable = false
+
+  [params.section]
+    paginate = 10
+    dateFormat = "02-01"
+
+  [params.list]
+    paginate = 10
+    dateFormat = "02-01"
+
+   [params.home.profile]
+     enable = true
+     title = "Shantanoo's Corner on the Internet."
+     subtitle = "Commonly known to as Shan in most parts of the World."
+     typeit = true
+     social = true
+    [params.home.posts]
+      paginate = 5
+
+[params.social]
+  GitHub = "shantanoo-desai"
+  LinkedIn = "shantanoo-desai"
+  Stackoverflow = "4851126/shan-desai?tab=profile"
+  Goodreads = "12116444-shantanoo-desai"
+  Instagram = "shandesai"
+  Email = "shantanoo.desai@gmail.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = "My thoughts and works digitally transcribed"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = "Everything You wish to know about me"
+    weight = 4
