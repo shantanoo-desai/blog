@@ -15,7 +15,7 @@ toc:
 <!--more-->
 
 The present pandemic poses quite the philosophical question for every individual who wishes to get out of their bed,
-wishes to just glare away from the phone for a bit and somehow tell themself __I need to be do something productive!__
+wishes to just glare away from the phone for a bit and somehow tell themself __I need to be doing something productive!__
 
 A modern day Shakespeare would write something along the lines of these words:
 
@@ -25,7 +25,7 @@ A modern day Shakespeare would write something along the lines of these words:
 
 ---
 
-As I went through some of my pages in my Journal I stumbled upon quotes from some of the most prolific yet hilarious writers
+As I went through some of my pages in my Journal I stumbled upon quotes from some of the most prolific, hilarious writers
 the English literary world has ever seen. Here are some quotes I jotted down.
 
 
