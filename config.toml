@@ -32,7 +32,7 @@ theme = "LoveIt"
    [params.home.profile]
      enable = true
      title = "Shantanoo's Corner on the Internet."
-     subtitle = "Commonly known to as Shan in most parts of the World."
+     subtitle = "Commonly known as Shan in most parts of the World."
      typeit = true
      social = true
     [params.home.posts]
@@ -46,6 +46,15 @@ theme = "LoveIt"
   Instagram = "shandesai"
   Email = "shantanoo.desai@gmail.com"
   Researchgate = "Shantanoo_Desai"
+
+[params.page.share]
+  enable = true
+  Twitter = true
+  Facebook = true
+  Linkedin = true
+  Whatsapp = true
+  HackerNews = true
+  Reddit = true
 
 [menu]
   [[menu.main]]
