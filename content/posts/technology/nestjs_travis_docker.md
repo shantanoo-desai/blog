@@ -18,9 +18,9 @@ toc:
 
 I recently got into [Nest.JS](https://nestjs.com) as a Backend framework and found it more comfortable since I have worked with [Angular](https://angular.io) for a couple of years now. So I wanted to learn the framework a bit more than your usual Beginners Tutorial.
 
-
-> __Note__: I am not going to dive deep into how to write Unit Tests (I am not a champ) or how to use Travis CI, but at some point it might be easier to let some automation take over your software tasks.
-
+{{< admonition >}}
+I am not going to dive deep into how to write Unit Tests (I am not a champ) or how to use Travis CI, but at some point it might be easier to let some automation take over your software tasks.
+{{< /admonition >}}
 ## Learning Material
 
 - I used the Academind 's YouTube Tutorial of Nest.JS + MongoDB to create a CRUD App for my MongoDB Atlas Cluster.
@@ -65,8 +65,9 @@ Follow these steps:
 
 It is easy to be fooled by assuming that our Docker Hub's password would be the same as we often use to login into the Hub's Website. However, that was not the case for me. Although I had added my Docker Hub's password within the respective environment variable `DOCKER_PASSWORD` I was still getting Access Denial upon pushing the Docker Image for my App. 
 
-> Example: [Build #14 for the project](https://medium.com/r/?url=https%3A%2F%2Ftravis-ci.org%2Fgithub%2Fshantanoo-desai%2Fnestjs-products-api%2Fjobs%2F679150053%23L319)
-
+{{< admonition >}}
+Example: [Build #14 for the project](https://medium.com/r/?url=https%3A%2F%2Ftravis-ci.org%2Fgithub%2Fshantanoo-desai%2Fnestjs-products-api%2Fjobs%2F679150053%23L319)
+{{< /admonition >}}
 {{< figure src="/images/technology/travisci_nestjs/travis_build_failure_log.png" title="Build Log which threw Access Denied from the Docker Hub" >}}
 
 _It took me a while to figure out that Docker Hub usually will accept an __Accept Token__ as an accepted form of credential._
@@ -94,8 +95,9 @@ Here is mine:
 - The `after_sucess` tells Travis then once my NestJS tests are successful, build the Docker Image
 
 - The `before_deploy` stage tells Travis to log into the Registry. The commands within such stages are written as elements within a list for step-by-step execution. If you wish to publish your Image to Docker Hub make sure to use:
-
-        docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD" docker.io
+  ```bash
+    docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD" docker.io
+  ```
 
 - If for any other Registry change the server name in the end.
 
