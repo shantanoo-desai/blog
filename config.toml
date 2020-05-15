@@ -8,6 +8,10 @@ title = "Shan's Corner"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
+[markup]
+  [markup.highlight]
+    noClasses = false
+
 [params]
   # LoveIt theme version
   version = "0.2.X"
@@ -46,6 +50,10 @@ theme = "LoveIt"
   Instagram = "shandesai"
   Email = "shantanoo.desai@gmail.com"
   Researchgate = "Shantanoo_Desai"
+
+[params.page.code]
+  copy = true
+  maxShownLines = 20
 
 [params.page.share]
   enable = true
