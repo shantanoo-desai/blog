@@ -16,7 +16,7 @@ theme = "LoveIt"
   # LoveIt theme version
   version = "0.2.X"
   description = "Shan's World"
-  defaultTheme = "dark"
+  defaultTheme = "auto"
   dateFormat = "02-01-2006"
 
   [params.app]
@@ -40,7 +40,8 @@ theme = "LoveIt"
      typeit = true
      social = true
     [params.home.posts]
-      paginate = 5
+      enable = true
+      paginate = 10
 
 [params.social]
   GitHub = "shantanoo-desai"
