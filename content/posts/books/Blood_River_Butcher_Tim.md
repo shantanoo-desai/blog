@@ -1,7 +1,7 @@
 ---
 title: "Blood River: A Journey to Africa's Broken Heart by Tim Butcher"
 
-description: "Some noteworthy paragraphs and thoughts from the Book and the Congo"
+description: "Some noteworthy paragraphs and resources from the Book and the Congo"
 date: 2020-05-14T14:30:42+02:00
 draft: true
 author: "Shan"
@@ -19,11 +19,6 @@ toc:
 I am very intrigued by the Congo and Africa as a continent in general. I have read several books on Authors journeying through the various countries and it always seems to be more of an ordeal travel than one of an adventure.
 
 I picked this book up in a wonderful book store in Amsterdam, NL and dived deep into it for a couple of weeks and since then I have enjoyed the narrative by Tim Butcher. Tim planned to trace back steps of [H.M. Stanley](https://en.wikipedia.org/wiki/Henry_Morton_Stanley) in the modern day Democratic Republic of Congo in 2004.
-
-## Documentaries
-
-My initial introduction to Congo was made through one very peculiar documentatries by __Russia Today's (RT) Documemtary__ channel on YouTube. It is about the __Congo Dandies__.
-
 
 ## Paragraphs
 Here are some paragraphs that etched an impression in my mind from the book.
@@ -132,3 +127,39 @@ __Context__: On his way from Ubundu to Kisangani, time rides again with a couple
 > The railway track belonged to the __Equator Express__, a line built by the Belgians to circumvent the [Stanley Falls](https://en.wikipedia.org/wiki/Boyoma_Falls), cutting straight through the Equator. Katharine Hepburn described taking the train to [_The African Queen_](https://en.wikipedia.org/wiki/The_African_Queen_(film)) set and the grim conditions during the eight hours it took the train to cover just 140 kilometres. Some of the film crew members tried to deal with the heat by pouring baskets of water over themselves, but she judged it was a waste of time because the effort of raising the bucket made you sweat even more, so she sat in a puddle of inertia willing the journey to end.
 
 ---
+
+## Documentaries
+
+### The Congo Dandies
+
+My initial introduction to Congo was made through one very peculiar documentary by __Russia Today's (RT) Documemtary__ channel on YouTube. It is about the __Congo Dandies__ or [__La Sape__](https://en.wikipedia.org/wiki/La_Sape). It illustrates a complete paradox between overtly well dressed individuals in the big cities of __Kinshasa__ and __Brazzaville__ amidst abject poverty and how it is a _elite_ culture even though the Dandies themselves are subjected to poverty.
+
+{{< youtube W27PnUuXR_A >}}
+
+---
+
+### Vice Guide to Congo
+
+Suroosh Alvi and Vice explore the notorious Coltan mines of Eastern Congo, a conflict mineral used in nearly every electronic device on Earth.
+
+{{< youtube kYqrflGpTRE >}}
+
+
+### Vice Fringes: Joseph Kony and M23
+
+Another fantastic documentary on the refugees and the rebel factions of DRC.
+
+{{< youtube kSEaTQMI5AA >}}
+
+### BBC Africa: Congo
+
+A very recent documentary on the Congo by BBC, where the BBC teams traverse through DRC.
+
+{{< youtube 43xTvpxWLW4 >}}
+
+### Congo, My Precious
+
+An Extremely heart-shattering documentary on the Coltan Mines in DRC through the soul of a Congolese.
+
+{{< youtube dTwzCy0-RTw >}}
+
