@@ -16,9 +16,9 @@ toc:
 ---
 <!--more-->
 
-I picked this book up in a wonderful book store in Amsterdam, NL and dived deep into it for a couple of weeks and since then I have enjoyed the narrative by Tim Butcher. Tim planned to trace back steps of [H.M. Stanley](https://en.wikipedia.org/wiki/Henry_Morton_Stanley) in the modern day Democratic Republic of Congo in 2004.
+I picked this book up in a wonderful bookstore in Amsterdam, NL and dived deep into it and since then I have enjoyed the narrative by Tim Butcher. Tim planned to trace back steps of [H.M. Stanley](https://en.wikipedia.org/wiki/Henry_Morton_Stanley) in the modern day Democratic Republic of Congo in 2004.
 
-I am very intrigued by the Congo and Africa as a continent in general. I have read several books on Authors travelling through the various countries and it always seems to be more of an ordeal travel than one of an adventure. I am personally skeptical if I could ever get to visit the Congo ever in my life, but Tim does a great job at narrating his voyage through his book.
+I am very intrigued by the Congo and Africa as a continent in general. I have read several books by Authors (Kapuscinski, Theroux et al) travelling through the various countries and it always seems to be more of an ordeal travel than one of an adventure. I am personally skeptical if I could ever get to visit the Congo ever in my life, but Tim does a great job at narrating his voyage through his book.
 
 He starts his journey just like Stanley did, from Lake Tanganyika in the East and makes his way all the way to the West at Boma, DRC.
 
@@ -133,14 +133,14 @@ __Context__: On his way from Ubundu to Kisangani, time rides again with a couple
 ---
 ### Nothing like a Primus!
 
-__Context__: In Kisangani, Tim met with Oggi Saidi who was recommended as a skilled pirogue boatsman who could take him further down the Congo River. Having gone through some possible options, Oggi and Tim sat down for a couple of beers. [Primus Beer](https://en.wikipedia.org/wiki/Bralima_Brewery) was what they drank and is owned by Heineken International.
+__Context__: In Kisangani, Tim met with Oggi Saidi, a recommended as a skilled pirogue boatsman, who could take him further down the Congo River. Having gone through some possible options, Oggi and Tim sat down for a couple of beers. [Primus Beer](https://en.wikipedia.org/wiki/Bralima_Brewery) was what they drank and is owned by Heineken International.
 
 > Back at the hotel, Oggi and I found solace in a bottle of Primus, the local beer. It had been brewed in Kisangani since the colonial era, and across the Congo it enjoys the status of a national instituition. During my research most people with any direct experience of the Congo mentioned Primus. During the various wars and periods of turmoil here, just about the only thing that remained open in the city was the brewery, churning out Primus lager in large, brown litre bottles that bore the name not on a paper label, but on a stencil of white letters glazed direct onto the glass. There were legendary stories about bottles of Primus being opened to reveal human nails inside, or insects, or other detritus too gruesome to go into. But the point was: while every other factory in Kisangani collapsed, the Primus brewery plodded on, filling, recycling and refilling the bottles, time after time, year after year, crisis after crisis.
 >
 > Each bottle I drank seemed to have its own story. The tiny chinks on the lip or missing letters on the stencil told of boozing sessions and bar fights through the city's turbulent past. Drinking a bottle of Primus in the sweaty heat of Kisangani made me feel more in touch with the country's recent history than almost anything else I did in the Congo. And another thing - it tasted great.
 
 ---
-### Rebuilding with a Chicotte: An expat's view of the Congo
+### Rebuilding with a Chicotte
 
 __Context__: Tim is still waiting in Kisangani to find a way to head further down towards Kinshasa on the Congo river. He recollects meeting a Greek expat. The expat hat some harsh opinions on what the Congo needed to reestabilish itself.
 
@@ -160,15 +160,15 @@ __Context__: Tim is still waiting in Kisangani to find a way to head further dow
 >
 > _'I was born here in the Congo. When my parents took me as a child back to Greece, it was more primitive than here. I used to look forward to coming back to the Congo because it was more advanced than Greece. Can you imagine that?'_
 >
-> _'This city alone use to have a regular flight by a plane spraying for mosquittoes. Every day trucks would drive around the city sprinkling water on the roads to stop the dust rising. You could pick from six cinemas. Eros was my favourite. The whole city centre ws electrified. Right at the end of the colonial period, in the 1950s, they put in a hydroelectric power station on the Tshopo (river) with four generators, which was enough for the whole city'._
+> _'This city alone use to have a regular flight by a plane spraying for mosquittoes. Every day trucks would drive around the city sprinkling water on the roads to stop the dust rising. You could pick from six cinemas. Eros was my favourite. The whole city centre was electrified. Right at the end of the colonial period, in the 1950s, they put in a hydroelectric power station on the Tshopo (river) with four generators, which was enough for the whole city'._
 >
 > _'But even if you accept the fighting, the wars and the struggle for control, what do you have today? Nobody with any interest in making this place work, apart from a few aid workers'._
 >
-> Yani raised his eyes and a club waiter came running with a bottle of Primus. He lit a cigarette and drew heavily on it before leaning forward conspriratorially.
+> Yani raised his eyes and a club waiter came running with a bottle of Primus. He lit a cigarette and drew heavily on it before leaning forward conspiratorially.
 >
-> _'You see him ?'_ he asked quitely, flicking his eyes in the direction of a photograph of the country's president, Joseph Kabila, catapulted into the job in his twenties after his father, Laurent Kabila, was assassinated.
+> _'You see him?'_ he asked quitely, flicking his eyes in the direction of a photograph of the country's president, Joseph Kabila, catapulted into the job in his twenties after his father, Laurent Kabila, was assassinated.
 > 
-> _'What skills does he have to run a country like this, or even a place like Kisangani? In all his life he has never been here, and this is the second city of the country he is president of. It is ridiculous. Christ, before his father took over this country, the young Kabila was driving taxis for tourists in Tanzania, and now he is meant to be a national leader!'_ Hi harrumph of scorn was so loud it made the waiter jump.
+> _'What skills does he have to run a country like this, or even a place like Kisangani? In all his life he has never been here, and this is the second city of the country he is president of. It is ridiculous. Christ, before his father took over this country, the young Kabila was driving taxis for tourists in Tanzania, and now he is meant to be a national leader!'_ His harrumph of scorn was so loud it made the waiter jump.
 >
 > _'Who is there who actually wants this place to work? I don't see anybody. Let me give you an example. An aid group went to the Tshopo power station in the last couple of years. They found three of the four generators were broken, So they raised the money and shipped replacements to Matadi, the country's main port down near where the Congo River reaches the Atlantic. And they flew in engineers to Kisangani ready to fit everything'._
 >
@@ -180,11 +180,15 @@ __Context__: Tim is still waiting in Kisangani to find a way to head further dow
 ---
 ## Posts and Articles
 
+A collection of things I knew of the Congo prior to reading the book.
+
 ### Renan Ozturk's Lucky Strike
 
 {{< instagram BUsA2UAjcUL >}}
 
 ### Anthony Bourdain's Congo
+
+If you can, watch Anthony Bourdain's Parts Unknown episode on the Congo.
 
 - [Bourdain's Field Notes on Congo](https://explorepartsunknown.com/congo/bourdains-field-notes-congo/)
 - [Things to know before go to Eastern Congo](https://explorepartsunknown.com/congo/18-things-to-know-before-you-go-to-eastern-congo/)
@@ -211,19 +215,19 @@ Suroosh Alvi and Vice explore the notorious Coltan mines of Eastern Congo, a con
 
 ### Vice Fringes: Joseph Kony and M23
 
-Another fantastic documentary on the refugees and the rebel factions of DRC.
+Another fantastic documentary on the refugees and the rebel factions of the DRC.
 
 {{< youtube kSEaTQMI5AA >}}
 
 ### BBC Africa: Congo
 
-A very recent documentary on the Congo by BBC, where the BBC teams traverse through DRC.
+A very recent documentary on the Congo by BBC, where the team traverse through the DRC.
 
 {{< youtube 43xTvpxWLW4 >}}
 
 ### Congo, My Precious
 
-An Extremely heart-shattering documentary on the Coltan Mines in DRC through the soul of a Congolese.
+An extremely heart-shattering documentary on the Coltan Mines in the DRC through the soul of a Congolese.
 
 {{< youtube dTwzCy0-RTw >}}
 
