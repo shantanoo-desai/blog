@@ -16,9 +16,13 @@ toc:
 ---
 <!--more-->
 
-I am very intrigued by the Congo and Africa as a continent in general. I have read several books on Authors journeying through the various countries and it always seems to be more of an ordeal travel than one of an adventure.
-
 I picked this book up in a wonderful book store in Amsterdam, NL and dived deep into it for a couple of weeks and since then I have enjoyed the narrative by Tim Butcher. Tim planned to trace back steps of [H.M. Stanley](https://en.wikipedia.org/wiki/Henry_Morton_Stanley) in the modern day Democratic Republic of Congo in 2004.
+
+I am very intrigued by the Congo and Africa as a continent in general. I have read several books on Authors travelling through the various countries and it always seems to be more of an ordeal travel than one of an adventure. I am personally skeptical if I could ever get to visit the Congo ever in my life, but Tim does a great job at narrating his voyage through his book.
+
+He starts his journey just like Stanley did, from Lake Tanganyika in the East and makes his way all the way to the West at Boma, DRC.
+
+Here is a collection of all things Congo that I have stumbled across before, during, and after reading the book.
 
 ## Paragraphs
 Here are some paragraphs that etched an impression in my mind from the book.
@@ -127,7 +131,67 @@ __Context__: On his way from Ubundu to Kisangani, time rides again with a couple
 > The railway track belonged to the __Equator Express__, a line built by the Belgians to circumvent the [Stanley Falls](https://en.wikipedia.org/wiki/Boyoma_Falls), cutting straight through the Equator. Katharine Hepburn described taking the train to [_The African Queen_](https://en.wikipedia.org/wiki/The_African_Queen_(film)) set and the grim conditions during the eight hours it took the train to cover just 140 kilometres. Some of the film crew members tried to deal with the heat by pouring baskets of water over themselves, but she judged it was a waste of time because the effort of raising the bucket made you sweat even more, so she sat in a puddle of inertia willing the journey to end.
 
 ---
+### Nothing like a Primus!
 
+__Context__: In Kisangani, Tim met with Oggi Saidi who was recommended as a skilled pirogue boatsman who could take him further down the Congo River. Having gone through some possible options, Oggi and Tim sat down for a couple of beers. [Primus Beer](https://en.wikipedia.org/wiki/Bralima_Brewery) was what they drank and is owned by Heineken International.
+
+> Back at the hotel, Oggi and I found solace in a bottle of Primus, the local beer. It had been brewed in Kisangani since the colonial era, and across the Congo it enjoys the status of a national instituition. During my research most people with any direct experience of the Congo mentioned Primus. During the various wars and periods of turmoil here, just about the only thing that remained open in the city was the brewery, churning out Primus lager in large, brown litre bottles that bore the name not on a paper label, but on a stencil of white letters glazed direct onto the glass. There were legendary stories about bottles of Primus being opened to reveal human nails inside, or insects, or other detritus too gruesome to go into. But the point was: while every other factory in Kisangani collapsed, the Primus brewery plodded on, filling, recycling and refilling the bottles, time after time, year after year, crisis after crisis.
+>
+> Each bottle I drank seemed to have its own story. The tiny chinks on the lip or missing letters on the stencil told of boozing sessions and bar fights through the city's turbulent past. Drinking a bottle of Primus in the sweaty heat of Kisangani made me feel more in touch with the country's recent history than almost anything else I did in the Congo. And another thing - it tasted great.
+
+---
+### Rebuilding with a Chicotte: An expat's view of the Congo
+
+__Context__: Tim is still waiting in Kisangani to find a way to head further down towards Kinshasa on the Congo river. He recollects meeting a Greek expat. The expat hat some harsh opinions on what the Congo needed to reestabilish itself.
+
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Brooklyn_Museum_22.1145_Whip_Chicotte.jpg"
+           link="https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_22.1145_Whip_Chicotte.jpg"
+           title="Whip (chicotte) made from twisted rhinoceros hide"
+           alt="Whip (chicotte) made from twisted rhinoceros hide"
+           attr="Image Courtesy: Brooklyn Museum / [CC Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0)"
+           target="_blank" >}}
+
+> Only a handful of foreigners remain in Kisangani today, from a population that once numbered more than 5,000. During my stay I saw plenty of outsiders, but they were almost all aid workers or UN people, working on short-term contracts, whose experience went back just a few months or years. Many were hard-working, deeply committed to helping the local people, but pretty much all of those I spoke to found the scale of the humanitarian problems simply overwhelming. I heard heartbreaking stories about corrupt Congolese officials pocketing aid money intended for local public-health workers, and local soldiers not just looting aid equipment, but brazenly asking for cash to hand it back to its rightful owners. Many in the aid community spent their time counting the days until their contracts were up and they could go back to the real world.
+>
+> Yani Giatro's attitude to Kisangani was very different. He was born in the Congo in 1947, part of a one-huge Greek expat community who had set themselves up as traders, mechanics and farmers during the Belgian colonial period. So large was the Greek community in Kisangani that the city boasted a Hellenic Social Club with restaurant, bar and sports facilities. By the time I got there, the club was barely functioning, but its lunchtime moussaka buffet was one of the few palatable meals available in the entire city.
+>
+> _'When logic ends, the Congo begins,'_ Yani said as he bent his face down to spoon up some moussaka. He peered at me over his spectacles as I made my notes.
+>
+> _'I was born here in the Congo. When my parents took me as a child back to Greece, it was more primitive than here. I used to look forward to coming back to the Congo because it was more advanced than Greece. Can you imagine that?'_
+>
+> _'This city alone use to have a regular flight by a plane spraying for mosquittoes. Every day trucks would drive around the city sprinkling water on the roads to stop the dust rising. You could pick from six cinemas. Eros was my favourite. The whole city centre ws electrified. Right at the end of the colonial period, in the 1950s, they put in a hydroelectric power station on the Tshopo (river) with four generators, which was enough for the whole city'._
+>
+> _'But even if you accept the fighting, the wars and the struggle for control, what do you have today? Nobody with any interest in making this place work, apart from a few aid workers'._
+>
+> Yani raised his eyes and a club waiter came running with a bottle of Primus. He lit a cigarette and drew heavily on it before leaning forward conspriratorially.
+>
+> _'You see him ?'_ he asked quitely, flicking his eyes in the direction of a photograph of the country's president, Joseph Kabila, catapulted into the job in his twenties after his father, Laurent Kabila, was assassinated.
+> 
+> _'What skills does he have to run a country like this, or even a place like Kisangani? In all his life he has never been here, and this is the second city of the country he is president of. It is ridiculous. Christ, before his father took over this country, the young Kabila was driving taxis for tourists in Tanzania, and now he is meant to be a national leader!'_ Hi harrumph of scorn was so loud it made the waiter jump.
+>
+> _'Who is there who actually wants this place to work? I don't see anybody. Let me give you an example. An aid group went to the Tshopo power station in the last couple of years. They found three of the four generators were broken, So they raised the money and shipped replacements to Matadi, the country's main port down near where the Congo River reaches the Atlantic. And they flew in engineers to Kisangani ready to fit everything'._
+>
+> _'So what happenend? The customs, the officials, the people down at Matadi blocked the generators from coming in. The foreign engineers got more and more frustrated until they eventually left, God knows where the new generators ended up, and the lights still go out here in Kisangani'._
+>
+> He leaned forward again, fixed my gaze and whispered.
+> _'The Congo was built with the chicotte, and the only way to rebuild it will be with the chicotte.'_ He was referring to a whip made from dried hippopotamus hide, which the early Belgian colonialists used savagely when dealing with their subjects in the Congo. Even today, almost fifty years after the Belgians left, the chicotte endures as a sinister symbol of their brutality.
+
+---
+## Posts and Articles
+
+### Renan Ozturk's Lucky Strike
+
+{{< instagram BUsA2UAjcUL >}}
+
+### Anthony Bourdain's Congo
+
+- [Bourdain's Field Notes on Congo](https://explorepartsunknown.com/congo/bourdains-field-notes-congo/)
+- [Things to know before go to Eastern Congo](https://explorepartsunknown.com/congo/18-things-to-know-before-you-go-to-eastern-congo/)
+- [Bourdain's interractions](https://explorepartsunknown.com/congo/bourdain-off-the-cuff-congo/)
+- [Eat like Bourdain: Congo](https://explorepartsunknown.com/congo/eat-like-bourdain-congo/)
+
+---
 ## Documentaries
 
 ### The Congo Dandies
