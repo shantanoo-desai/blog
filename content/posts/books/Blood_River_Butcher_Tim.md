@@ -1,9 +1,9 @@
 ---
 title: "Blood River: A Journey to Africa's Broken Heart by Tim Butcher"
 
-description: "Some noteworthy paragraphs and resources from the Book and the Congo"
-date: 2020-05-14T14:30:42+02:00
-draft: true
+description: "Some noteworthy paragraphs from the  book and my personal knowledge of the Congo"
+date: 2020-05-17T18:00:00+02:00
+draft: false
 author: "Shan"
 
 tags: ["Travel Writing", "Reportage", "Africa", "Congo", "Democratic Republic of Congo", "Non-Fiction"]
