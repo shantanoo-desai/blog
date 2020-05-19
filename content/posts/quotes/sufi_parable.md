@@ -1,7 +1,7 @@
 ---
 title: "Parable: This Too Shall Pass"
 date: 2020-05-19T11:26:40+02:00
-draft: true
+draft: false
 description: "A parable that keeps one go through thick and thin."
 
 toc:
