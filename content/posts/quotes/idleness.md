@@ -17,6 +17,8 @@ toc:
 The present pandemic poses quite the philosophical question for every individual who wishes to get out of their bed,
 wishes to just glare away from the phone for a bit and somehow tell themself __I need to be doing something productive!__
 
+A recommended reading for Idleness is [How To Be Idle by Tom Hodgkinson](https://www.amazon.com/How-Be-Idle-Loafers-Manifesto/dp/0060779691). Tom is also the editor for [The Idler](https://www.idler.co.uk/).
+
 A modern day Shakespeare would write something along the lines of these words:
 
 > _To Do Or Not To Do, That Is The Question!_
@@ -52,5 +54,10 @@ the English literary world has ever seen. Here are some quotes I jotted down.
 > {{< style "text-align: right;" >}}-- __Lao Tzu__{{< /style >}}
 
 ---
+> _Nichts erfordert mehr Geist, als nichts zu tun zu haben un trotzdem nichts zu tun_
+>
+> (Nothing requires more Spirit than having nothing to do and still doing nothing)
+>
+> {{< style "text-align: right;" >}} -- __Karl Heinrich Waggerl__ {{</ style >}}
 
 I was planning to write something profound and motivating here but then I felt lazy and missed being idle. So I am going to leave it there!
