@@ -9,7 +9,7 @@ author: "Shan"
 tags: ["Travel Writing", "Reportage", "Africa", "Congo", "Democratic Republic of Congo", "Non-Fiction"]
 categories: ["Bookshelf"]
 
-featuredImage: "/images/bookshelf/bloodriver_butcher.jpg"
+featuredImage: "/images/bookshelf/bloodriver_butcher.png"
 
 toc:
   enable: true
