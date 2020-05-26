@@ -1,6 +1,6 @@
 ---
 title: "Life & Times of Micheal K by J.M. Coetzee"
-date: 2020-05-26T18:30:00+02:00
+date: 2020-05-26T10:30:00+02:00
 description: "A paragraph from the Nobel Laureate's work"
 
 author: "Shan"
