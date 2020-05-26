@@ -3,6 +3,7 @@ title: "Parable: This Too Shall Pass"
 date: 2020-05-19T11:26:40+02:00
 draft: false
 description: "A parable that keeps one go through thick and thin."
+author: "Shan"
 
 categories: ["Quotes"]
 tags: ["Parable", "Sufi Writings", "Stoicism"]
