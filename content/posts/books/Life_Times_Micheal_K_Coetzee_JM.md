@@ -6,7 +6,7 @@ description: "A paragraph from the Nobel Laureate's work"
 author: "Shan"
 draft: false
 
-tags: ["Novel", "South Africa", "Fiction"]
+tags: ["Novel", "South Africa", "Fiction", "Africa"]
 categories: ["Bookshelf"]
 
 toc:
