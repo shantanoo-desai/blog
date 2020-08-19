@@ -22,7 +22,7 @@ different set of security measures to the __TIG (Telegraf, InfluxDB, Grafana) + 
 
 During the learning phase of setting up the stacks, there came a crucial requirement about how to *add/remove* user management to the MQTT Mosquitto Broker. In the stack, there are only two services - __Grafana__ and __Mosquitto MQTT Broker__, which would require user management. Grafana, tends to provide an easy way via UI to manage users. To the best of my knowledge, no UI for Mosquitto Broker since it is mostly a CLI based service.
 
-> I was very sceptical whether one can manage Mosquitto Broker users without _restarting_ the `mosquitto` container.
+> I was very skeptical whether one can manage Mosquitto Broker users without _restarting_ the `mosquitto` container.
 > I wanted to avoid downtime in the stack
 
 Apparently, there is a way to avoid a downtime to add/remove users to the Broker. Let's look into it!
@@ -37,7 +37,7 @@ SIGHUP
 Upon receiving the SIGHUP signal, mosquitto will attempt to reload configuration file data, assuming that the -c argument was provided when mosquitto was started. Not all configuration parameters can be reloaded without restarting. See mosquitto.conf(5) for details.
 {{< /admonition >}}
 
-The next step was to check how to send signals to a specific `docker` container. This is also possible via `docker` CLI as answered but [this StackOverflow Query][3].
+The next step was to check how to send signals to a specific `docker` container. This is also possible via `docker` CLI as answered in [this StackOverflow Query][3].
 
 If your container is named `mosquitto` in your `docker-compose.yml` file, the the following will work:
 
