@@ -4,7 +4,7 @@ date: 2020-09-03T14:38:09+02:00
 draft: false
 author: "Shan"
 
-description: "Map your tags to distinct values and replace them as fields for InfluxDB"
+description: "Map your fields to distinct values and replace them as tags for InfluxDB"
 categories: ["Technology"]
 tags: ["MQTT", "IoT", "Telegraf", "InfluxDB"]
 
