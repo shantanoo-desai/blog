@@ -94,23 +94,20 @@ aren't possible!
 
 ### Solution
 
-- Find out the `UID` and Docker `GID` (Group ID)
+- Find out the User `UID` and Group ID `GID` (Group ID)
 
     ```bash
-    $ id
+    $ id -u
     ```
-    __OR__
+    OR
 
     ```bash
-    $ cat /etc/group | grep -i "docker"
+    $ id -g
     ```
 
-- For me the my account had the `uid` of `1002` and the Docker group ID `998`
+- For me the my account had the `uid` of `1002`
 
-This implies the docker container is controlled using `docker` group and the log files and directory is controlled by my UID.
-
-
-- Add: `user: "1002:998"` to the `docker-compose.yml` file and restart your container
+- Add: `user: "1002:1002"` to the `docker-compose.yml` file and restart your container
 
 The error vanished and I am now able to check the logs on the host and the persistence is stored under `mosquitto/data/mosquitto.new.db`
 
@@ -123,7 +120,7 @@ The error vanished and I am now able to check the logs on the host and the persi
     mosquitto:
         image: eclipse-mosquitto
         container_name: secure_mqtt_broker
-        user: "1002:998"
+        user: "1002:1002"
         volumes:
             - ./certs/mqtt:/mosquitto/config/certs
             - ./mosquitto/config:/mosquitto/config
@@ -134,6 +131,14 @@ The error vanished and I am now able to check the logs on the host and the persi
         restart: always
         network_mode: host
 ```
+
+You can also pass the User ID and Group ID as Environment Variables as follows:
+
+```bash
+$ UID=$(id -u) GID=$(id -g) docker-compose -f docker-compose.yml up
+```
+and make sure to change the `user` key as follows in your `docker-compose.yml` file: `user: ${UID}:${GID}`
+
 ## Conclusions
 
 I went through the [Open Issue 1078 for Eclipse Mosquitto GitHub Repository][3] and figured the solution out.
