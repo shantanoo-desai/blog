@@ -1,6 +1,6 @@
 # Blog hosted on GitHub-Pages
 
-[![GitHub Pages Blog Workflow Status](https://github.com/shantanoo-desai/blog/workflows/GitHub Pages Blog/badge.svg)](https://github.com/shantanoo-desai/blog/actions)
+[![github-pages-blog Workflow Status](https://github.com/shantanoo-desai/blog/workflows/github-pages-blog/badge.svg)](https://github.com/shantanoo-desai/blog/actions)
 
 This is my personal blog created using [Hugo](https://gohugo.io/) _v0.70.0-Extended_ and [LoveIt Theme](https://github.com/dillonzq/LoveIt)
 
