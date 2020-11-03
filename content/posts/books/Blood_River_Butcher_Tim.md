@@ -182,10 +182,6 @@ __Context__: Tim is still waiting in Kisangani to find a way to head further dow
 
 A collection of things I knew of the Congo prior to reading the book.
 
-### Renan Ozturk's Lucky Strike
-
-{{< instagram BUsA2UAjcUL >}}
-
 ### Anthony Bourdain's Congo
 
 If you can, watch Anthony Bourdain's Parts Unknown episode on the Congo.
