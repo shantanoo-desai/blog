@@ -44,14 +44,14 @@ theme = "LoveIt"
       paginate = 10
 
 [params.social]
-  GitHub = "shantanoo-desai"
-  LinkedIn = "shantanoo-desai"
-  Stackoverflow = "4851126/shan-desai?tab=profile"
-  Goodreads = "12116444-shantanoo-desai"
   Email = "shantanoo.desai@gmail.com"
+  LinkedIn = "shantanoo-desai"
+  GitHub = "shantanoo-desai"
   Googlescholar = "https://scholar.google.com/citations?user=UVdO710AAAAJ&hl=en"
   Researchgate = "Shantanoo_Desai"
+  Stackoverflow = "4851126/shan-desai?tab=profile"
   Medium= "@shantanoodesai"
+  Goodreads = "12116444-shantanoo-desai"
 
 [params.page.code]
   copy = true
