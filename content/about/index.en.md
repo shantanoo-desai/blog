@@ -40,6 +40,8 @@ I am a Research Scientist, who enjoys Software and System Development, Climbing,
 # Publications
 [Publication List On ResearchGate :(fab fa-researchgate): ](https://www.researchgate.net/profile/Shantanoo_Desai/research)
 
+[Google Scholar Profile](https://scholar.google.com/citations?user=UVdO710AAAAJ&hl=en)
+
 # Language Proficiency
 
 * English
