@@ -93,7 +93,7 @@ theme = "LoveIt"
     name = "Categories"
     url = "/categories/"
     title = ""
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "about"
     pre = ""
