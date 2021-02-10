@@ -80,3 +80,9 @@ __Context__: Yevgenia Ustinova is a talented surgeon and an avid smoker.
 ---
 
 > _When you are young you haven't the experience, when you're old you haven't the strength._
+
+---
+
+__Context__: The Kadmins – Kostoglotov's exile neighbours and friends, who also spent seven years in the prison camps
+
+> _This morning he'd received a letter from the Kadims. Among other things Nikolai Ivanovich  had answered his question about the origin of the expression 'soft words will break your bones'. It came from a collection of didactic 15th century Russian Chronicles, a sort of manuscript book. In it there was a story about Kitovras. (Nikolai Ivanovich always knew about things that were old). Kitovras lived in a remote desert. He could only walk in a straight line. King Solomon summoned him and by a trick contrived to bind him with a chain. Then they took him away to break stones. But since Kitovras could only walk in a straight line, when they led him through Jerusalem they had to tear down the houses which happened to be in his way. One of them belonged to a widow. The widow began to weep and implore Kitovras not to break down her poor, pitiful dwelling. Her tears moved him and he gave in. Kitovras began to twist and turn to left and right until he broke a rib. The house remained intact, but Kitovras said 'Soft words will break your bones, hard words will rouse your anger'._
