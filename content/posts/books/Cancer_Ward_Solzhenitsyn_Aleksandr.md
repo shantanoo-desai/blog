@@ -72,3 +72,11 @@ __Context__: Yevgenia Ustinova is a talented surgeon and an avid smoker.
 > _Yevgenia Ustinova had been a surgeon all her life: without surgery she would be nothing. Still, she remembered and understood the words of Tolstoy's Cossak, Yeroshka, who said about West European doctors, "All they can do it cut. Well, they're fools. But up in the mountains you get real doctors."_
 >
 > _And if tommorow some other kind of therapy were invented - radiation, chemical or herbal, or even soemthing worked by light, color or telepathy, which could save her patients without the knife and would mean that surgery would completely vanish from human practice, Yevgenia Ustinova would not have defended her craft for one day, not because of her convictions but because she had spent all her life, cutting, cutting, all her life had been blood and flesh. It is one of the tiresome but unavoidable facts about humanity that people cannot refresh themselves in the middle of their lives by a sudden, abrupt change of occupation._
+
+---
+
+> _However much we laugh at miracles when we are strong, healthy and prosperous, if life becomes so hedged and cramped that only a miracle can save us, then we clutch at this unique, exceptional miracle and - believe in it._
+
+---
+
+> _When you are young you haven't the experience, when you're old you haven't the strength._
