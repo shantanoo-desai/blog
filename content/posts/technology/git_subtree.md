@@ -48,13 +48,13 @@ pool of IT Developers face. The solution is to make the subprojects into a `subt
 ### Usage
 
 ```bash
-$ git subtree split --prefix <your_directory_name> <branch_name>
+$ git subtree split --prefix <your_directory_name> --branch <branch_name>
 ```
 
 here `branch_name` can be whatever you wish it to be, `your_directory_name` here in my case is `SubProject1` and `SubProject2`.
 
 ```bash
-$ git subtree split --prefix SubProject1 micro-project
+$ git subtree split --prefix SubProject1 --branch micro-project
 ```
 
 git will make a branch called `micro-project` and check it out for you. Upon listing the files and directories it will only show the content of 
@@ -63,7 +63,7 @@ the directory mentioned (here, contents of `SubProject1`)
 Similarly for `SubProject2`
 
 ```bash
-$ git subtree split --prefix SubProject2 nano-project
+$ git subtree split --prefix SubProject2 --branch nano-project
 ```
 
 ## Setting Up Repositories
