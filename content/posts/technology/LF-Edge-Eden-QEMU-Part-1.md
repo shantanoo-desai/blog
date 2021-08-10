@@ -6,7 +6,13 @@ draft: false
 author: "Shan"
 
 categories: ["Technology"]
-tags: ["Edge Computing", "Open-Source", "Cluster", "IoT Deployment", "IoT", "Linux Foundation Projects"]
+tags: [
+        "Edge Computing", 
+        "Open-Source", 
+        "Edge Cluster Orchestration",
+        "IoT Deployment",
+        "IoT",
+        "Linux Foundation Projects"]
 ---
 <!--more-->
 ## Getting Started with LF-Edge's Eve Project
