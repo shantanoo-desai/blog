@@ -55,7 +55,7 @@ theme = "LoveIt"
 
 [params.page.code]
   copy = true
-  maxShownLines = 20
+  maxShownLines = 50
 
 [params.page.share]
   enable = true
