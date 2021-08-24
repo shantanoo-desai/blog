@@ -70,22 +70,22 @@ We will begin by making a fresh start with `eden`. If you haven't cloned the
     configFile:  /home/shantanoo/.eden/contexts/default.yml
     INFO[0000] Config file generated: /home/shantanoo/.eden/contexts/default.yml 
     DEBU[0000] Will use config from /home/shantanoo/.eden/contexts/default.yml 
-    DEBU[0000] Try to add config from /home/shantanoo/Development/github.com/lf-edge/eden/eden-config.yml 
+    DEBU[0000] Try to add config from /home/shantanoo/github.com/lf-edge/eden/eden-config.yml 
     INFO[0000] Config file already exists /home/shantanoo/.eden/contexts/default.yml 
     DEBU[0000] Will use config from /home/shantanoo/.eden/contexts/default.yml 
-    DEBU[0000] Try to add config from /home/shantanoo/Development/github.com/lf-edge/eden/eden-config.yml 
+    DEBU[0000] Try to add config from /home/shantanoo/github.com/lf-edge/eden/eden-config.yml 
     dist/bin/eden-linux-amd64 stop -v "debug"
     configName:  default
     configFile:  /home/shantanoo/.eden/contexts/default.yml
     DEBU[0000] Will use config from /home/shantanoo/.eden/contexts/default.yml 
-    DEBU[0000] Try to add config from /home/shantanoo/Development/github.com/lf-edge/eden/eden-config.yml 
+    DEBU[0000] Try to add config from /home/shantanoo/github.com/lf-edge/eden/eden-config.yml 
     INFO[0000] adam stopped                                 
     INFO[0000] redis stopped                                
     INFO[0000] registry stopped                             
     INFO[0000] eserver stopped                              
     INFO[0000] cannot stop EVE: cannot open pid file 
-    /home/shantanoo/Development/github.com/lf-edge/eden/dist/default-eve.pid: 
-        open /home/shantanoo/Development/github.com/lf-edge/eden/dist/default-eve.pid: no such file or directory 
+    /home/shantanoo/github.com/lf-edge/eden/dist/default-eve.pid: 
+        open /home/shantanoo/github.com/lf-edge/eden/dist/default-eve.pid: no such file or directory 
 
     ....
 
@@ -94,10 +94,10 @@ We will begin by making a fresh start with `eden`. If you haven't cloned the
     INFO[0000] cannot stop registry: StopRegistry: error in rm registry container: container not found 
     INFO[0000] cannot stop eserver: StopEServer: error in rm eserver container: container not found 
     INFO[0000] cannot stop EVE: 
-        cannot open pid file /home/shantanoo/Development/github.com/lf-edge/eden/dist/default-eve.pid: 
-        open /home/shantanoo/Development/github.com/lf-edge/eden/dist/default-eve.pid: no such file or directory 
+        cannot open pid file /home/shantanoo/github.com/lf-edge/eden/dist/default-eve.pid: 
+        open /home/shantanoo/github.com/lf-edge/eden/dist/default-eve.pid: no such file or directory 
     INFO[0000] CleanEden done                               
-    rm -rf dist/bin/eden-linux-amd64 dist/bin/eden  /home/shantanoo/Development/github.com/lf-edge/eden/dist
+    rm -rf dist/bin/eden-linux-amd64 dist/bin/eden  /home/shantanoo/github.com/lf-edge/eden/dist
     ```
 
     The build system will search for a default configuration YAML file in `~/.eden/` directory and stop any running
@@ -192,30 +192,31 @@ We will begin by making a fresh start with `eden`. If you haven't cloned the
     configName:  default
     configFile:  /home/shantanoo/.eden/contexts/default.yml
     DEBU[0000] Will use config from /home/shantanoo/.eden/contexts/default.yml 
-    DEBU[0000] Try to add config from /home/shantanoo/Development/github.com/lf-edge/eden/eden-config.yml 
+    DEBU[0000] Try to add config from /home/shantanoo/github.com/lf-edge/eden/eden-config.yml 
     DEBU[0000] Will use config from /home/shantanoo/.eden/contexts/default.yml 
-    DEBU[0000] Try to add config from /home/shantanoo/Development/github.com/lf-edge/eden/eden-config.yml 
-    DEBU[0000] Will use config from /home/shantanoo/Development/github.com/lf-edge/eden/dist/default-config_saved.yml 
-    DEBU[0000] Try to add config from /home/shantanoo/Development/github.com/lf-edge/eden/eden-config.yml 
+    DEBU[0000] Try to add config from /home/shantanoo/github.com/lf-edge/eden/eden-config.yml 
+    DEBU[0000] Will use config from /home/shantanoo/github.com/lf-edge/eden/dist/default-config_saved.yml 
+    DEBU[0000] Try to add config from /home/shantanoo/github.com/lf-edge/eden/eden-config.yml 
     DEBU[0000] Will use config from /home/shantanoo/.eden/contexts/default.yml 
-    DEBU[0000] Try to add config from /home/shantanoo/Development/github.com/lf-edge/eden/eden-config.yml 
+    DEBU[0000] Try to add config from /home/shantanoo/github.com/lf-edge/eden/eden-config.yml 
     INFO[0000] Config file /home/shantanoo/.eden/contexts/default.yml is the same as 
-        /home/shantanoo/Development/github.com/lf-edge/eden/dist/default-config_saved.yml 
+        /home/shantanoo/github.com/lf-edge/eden/dist/default-config_saved.yml 
     INFO[0000] GenerateEveCerts done                        
-    INFO[0000] Certs already exists in certs dir: /home/shantanoo/Development/github.com/lf-edge/eden/dist/default-certs 
+    INFO[0000] Certs already exists in certs dir: /home/shantanoo/github.com/lf-edge/eden/dist/default-certs 
     INFO[0000] GenerateEVEConfig done                       
     DEBU[0000] Try ImagePull with (lfedge/eve:0.0.0-master-36a9fae5-kvm-arm64) 
     DEBU[0000] Try to call 'docker run lfedge/eve:0.0.0-master-36a9fae5-kvm-arm64 -f raw live' 
-    with volumes map[/in:/home/shantanoo/Development/github.com/lf-edge/eden/dist/default-certs 
-    /out:/home/shantanoo/Development/github.com/lf-edge/eden/dist/default-images/eve] 
+    with volumes map[/in:/home/shantanoo/github.com/lf-edge/eden/dist/default-certs 
+    /out:/home/shantanoo/github.com/lf-edge/eden/dist/default-images/eve] 
 
     --
     INFO[0011] download EVE done: lfedge/eve:0.0.0-master-36a9fae5-kvm-arm64 
-    INFO[0011] Write file /home/shantanoo/Development/github.com/lf-edge/eden/dist/default-images/eve/live.img to sd (it is in raw format) 
+    INFO[0011] Write file /home/shantanoo/github.com/lf-edge/eden/dist/default-images/eve/live.img \
+                       to sd (it is in raw format) 
     DEBU[0011] Will use config from /home/shantanoo/.eden/contexts/default.yml 
-    DEBU[0011] Try to add config from /home/shantanoo/Development/github.com/lf-edge/eden/eden-config.yml 
+    DEBU[0011] Try to add config from /home/shantanoo/github.com/lf-edge/eden/eden-config.yml 
     DEBU[0011] Will use config from /home/shantanoo/.eden/contexts/default.yml 
-    DEBU[0011] Try to add config from /home/shantanoo/Development/github.com/lf-edge/eden/eden-config.yml 
+    DEBU[0011] Try to add config from /home/shantanoo/github.com/lf-edge/eden/eden-config.yml 
     To activate EDEN settings run:
     * for BASH/ZSH -- `source ~/.eden/activate.sh`
     * for TCSH -- `source ~/.eden/activate.csh`
@@ -311,7 +312,7 @@ Before we power up the Pi, let's start our `eden` controller
    ```
     INFO[0000] Adam waiting for EVE registration (0) of (20) 
     INFO[0020] Device uuid: f187a598-eb68-44b4-94e1-522ea01e2c67 
-    {"id":{"uuid":"f187a598-eb68-44b4-94e1-522ea01e2c67","version":"4"},"networks":[{"id":"6822e35f-c1b8-43ca-b344-0bbc0ece8cf1","type":4,"ip":{"dhcp":4,"dhcpRange":{}}},{"id":"6822e35f-c1b8-43ca-b344-0bbc0ece8cf3","type":4,"ip":{"dhcp":4,"dhcpRange":{}},"wireless":{"type":1}}],"reboot":{"counter":1000},"configItems":[{"key":"app.allow.vnc","value":"true"},{"key":"debug.default.loglevel","value":"info"},{"key":"debug.default.remote.loglevel","value":"warning"},{"key":"debug.enable.ssh","value":"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCq5NW8ZfEH+5M/fb0xYzNDxC46vbLMP79V1axzQUsYzLbOHsYdEkWjQed/7ks4gmQ62wOJZw/XEk7f8PQ74fMPkHL4BPaSzDWNBEfPbdcTXfJBtlIv3YGzQh5eBhuwIjtGL+z1EFeH2a3WrFBlnw1il4WZtPtKYm0qMnd3x2H3XtUh9FZU4KhyxZq/Zbb9qQkCPfMSuJ/7OKPDfpJ0Iif8954BwryZbGFeMrhONww9rJum0dB7FJpG9J/mVyS0JVVqcGo6NQMqTsO+/mHrn3o7TmhZRR8ezLYTDj54HtxiBtqsrI9/BeVcNQ7lRXdGXndF7d17uUFQSk3/KwXgL+rsKHfW5RX+igcvq8GszLU1MvxnRPynnyQZP7QD33EZL3S44YAfww+aj56vMw8nx2FjGumaJC4MqrMDAGbgfP0lMCuCBIDAOEJnf3Q7hwyqYi8KYi6d93FlfIKsY3MMIOrsBfHtH9Ae7zOCaxTWpppvCskwgm4lH0eeHwJvR2/c7xu08yGwI+2KRME5L6uHSLPryfhwydR/BRtk1DnZ5yfLh3V6iG5nuMJIc8tfinn8ls4tk4UGaT2CmcioZRHiOA3al/X+sXTjiFVAh+nxAi0KX5GlaXW/LBUdhUqlxb/3NlHmizr86IrT1zFoXB1ApzFSlQYYpnHhyKzNc+qa6Al4VQ==\n"},{"key":"newlog.allow.fastupload","value":"true"},{"key":"timer.config.interval","value":"5"},{"key":"timer.metric.interval","value":"10"}],"systemAdapterList":[{"name":"eth0","uplink":true,"networkUUID":"6822e35f-c1b8-43ca-b344-0bbc0ece8cf1"},{"name":"wlan0","networkUUID":"6822e35f-c1b8-43ca-b344-0bbc0ece8cf3"}],"deviceIoList":[{"ptype":1,"phylabel":"eth0","phyaddrs":{"Ifname":"eth0"},"logicallabel":"eth0","assigngrp":"eth0","usage":2,"usagePolicy":{"freeUplink":true}},{"ptype":5,"phylabel":"wlan0","phyaddrs":{"Ifname":"wlan0"},"logicallabel":"wlan0","assigngrp":"wlan0","usage":4,"usagePolicy":{}}],"productName":"RPi4"}
+    ... JSON Logs HERE...
     INFO[0021] Received unexpected StatusCode(Bad Request): repeat request (0) of (20) 
     INFO[0026] Received unexpected StatusCode(Bad Request): repeat request (1) of (20) 
     INFO[0031] onboarded                                    
