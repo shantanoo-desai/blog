@@ -15,7 +15,6 @@ tags: [
         "Linux Foundation Projects"]
 ---
 <!--more-->
-# Setting Up a Raspberry Pi 4 as an EVE Device and Deploying an `nginx` App
 
 If you haven't gone through the previous posts on trying EVE-OS with QEMU go check
 them out first in order to understand what it might feel like working with EVE devices
