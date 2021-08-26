@@ -1,5 +1,5 @@
 ---
-title: "Observe your Raspberry Pi EVE Device's CPU Usage with Telegraf and InfluxDB"
+title: "Observe your Raspberry Pi EVE Device's CPU Usage with Telegraf and InfluxDB - Part 4"
 date: 2021-08-26T12:00:00+02:00
 draft: false
 
