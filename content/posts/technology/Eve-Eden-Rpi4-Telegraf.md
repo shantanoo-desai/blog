@@ -1,4 +1,23 @@
-# Observe your Raspberry Pi EVE Device's CPU Usage with Telegraf and InfluxDB
+---
+title: "Observe your Raspberry Pi EVE Device's CPU Usage with Telegraf and InfluxDB"
+date: 2021-08-26T12:00:00+02:00
+draft: false
+
+author: "Shan"
+
+categories: ["Technology"]
+tags: [
+        "Edge Computing", 
+        "Open-Source", 
+        "Edge Cluster Orchestration",
+        "IoT Deployment",
+        "IoT",
+        "Linux Foundation Projects",
+        "InfluxDB",
+        "Telegraf"
+      ]
+---
+<!--more-->
 This is tutorial will translate the scenario previously mentioned in 
 [Observing Eve's CPU and Memory Consumption via Telegraf in QEMU - Part 2](https://shantanoo-desai.github.io/posts/technology/lf-edge-eden-qemu-telegraf-part-2/) to
 an actual Raspberry Pi 4 running EVE.
