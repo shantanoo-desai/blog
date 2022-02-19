@@ -17,7 +17,7 @@ I am a Research Scientist, who enjoys Software and System Development, Climbing,
 # Work Experience
 
 * Research Scientist @ [Bremer Institut für Produktion und Logistik GmbH, Bremen DE](http://www.biba.uni-bremen.de)
-    - Duration: __06.2017 to Present__
+    - Duration: __01.06.2017 to 28.02.2022__
     - Projects:
         - [NIMBLE Project](https://nimble-project.org): Open-Source, Federated B2B platform for SMEs in EU
             + __Funding__: European Commission
@@ -28,6 +28,16 @@ I am a Research Scientist, who enjoys Software and System Development, Climbing,
             + __Funding__: European Commission
             + __Roles__: Embedded Systems Development of Data Acquisition Gateway for NMEA2000 system and additional IoT Sensors
             + __Software__: `Python`, `Yocto-Project`, `Embedded Systems`, `MQTT`
+
+        - [RAINBOW Project](https://rainbow-h2020.eu/): Infrastructure, Operations planning and Use-Case Supervision for Edge/Fog Computing in Human-Robot Collaboration
+            + __Funding__: European Commision
+            + __Roles__: Software / Hardware Development for Edge/Fog Computing Infrastructure for Human-Robot Collaboration
+            + __Software__: `Python`, `GitHub Workflows and Actions`, `RabbitMQ`, `Docker`, `Kubernetes`
+
+* Software Engineer for Edge Devices @ [Emerson Automation Solutions, Augsburg DE](https://www.emerson.com/de-de)
+  
+    - Duration: __01.03.2022 to Present__
+
 # Education
 
 * M.Sc. in Communication and Information Technology
@@ -46,6 +56,6 @@ I am a Research Scientist, who enjoys Software and System Development, Climbing,
 
 * English
 * German
-* Hindi
 * Gujarati
+* Hindi
 * Spanish
