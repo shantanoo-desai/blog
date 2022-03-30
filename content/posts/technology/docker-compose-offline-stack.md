@@ -64,11 +64,11 @@ Assume we have our development machine with `docker` and `docker-compose` on the
 4. Now leverage `docker save` along with some format parsing using:
 
     ```bash
-    docker save -o myStack.tar $(docker images --format {{.Repository}}:{{.Tag}}})
+    docker save -o myStack.tar $(docker images --format "{{.Repository}}:{{.Tag}}")
     ```
   `docker save` combines the image into their respective Tar balls however we need to tell `docker`
   that we need to combine all the images existing on the dev machine into a combined Tar ball. This
-  is done through `--format {{.Repository}}:{{.Tag}}`
+  is done through `--format "{{.Repository}}:{{.Tag}}"`
 
 5. This should produce `myStack.tar` in your directory
 
