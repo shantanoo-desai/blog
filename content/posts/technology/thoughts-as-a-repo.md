@@ -28,11 +28,15 @@ I will keep it less  verbose and more visual.
 It is not intented for any audience, or for all if it clicks. I have no control of what the
 outcomes are and I am satisfied with that.
 
+### Repository
+
+[Repository](https://github.com/shantanoo-desai/philosophical-repo)
+
 ### Status Quo
 
 A while ago I was living:
 
-{{< figure src="/images/technology/stoicism/00_gradual_life_progess_commit.png" title="Life was Progressing" >}}
+{{< figure src="/images/technology/stoicism/00_gradual_life_progress_commit.png" title="Life was Progressing" >}}
 
 
 But then something started to _bug_ me.
