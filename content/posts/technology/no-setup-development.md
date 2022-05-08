@@ -68,7 +68,7 @@ So we almost have everything we want!
 
 ### Caveats
 
-Remember that Docker Containers are their own _ephemeral_ worls all together.
+Remember that Docker Containers are their own _ephemeral_ worlds all together.
 
 If the containers are designed to with `root` users, your files may change ownership, or might have
 different owners. You could check this using `ls -la` in your directory.
