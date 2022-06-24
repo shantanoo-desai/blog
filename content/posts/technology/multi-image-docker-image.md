@@ -136,7 +136,7 @@ FROM mcr.microsoft.com/dotnet/sdk:5.0 as base50
 ```
 
 It turns out that `COPY` is extremely flexible! with the `COPY --from` instruction in the `Dockerfile`
-is completely capable of pull the image from a registry and the dedicated directories can be copied easily!
+is capable of pulling the dedicated image from a registry and the respective directories can be copied easily!
 
 ## Solution
 
@@ -191,9 +191,7 @@ CMD [ "dotnet", "Server-Files/Server.dll" ]
 Just another day on the decks with Docker !!
 
 
-Get in touch if you feel like dropping on suggestions, feedbacks or criticism!
-
-
+Get in touch if you feel like dropping some suggestions, feedbacks or criticism! Always happy to learn and improve!
 
 [1]: https://hub.docker.com/_/microsoft-dotnet
 [2]: https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-6.0
