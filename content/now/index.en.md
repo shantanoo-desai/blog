@@ -4,11 +4,10 @@ date: 2022-06-25T12:23:54+02:00
 draft: false
 
 toc:
-  enable: true
-  auto: true
-
-fontawesome: true
+  enable: false
+  auto: false
 ---
+
 ## Why does _Now_ matter?
 
 because that is the only thing I can control!
