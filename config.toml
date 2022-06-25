@@ -75,7 +75,7 @@ theme = "LoveIt"
     post = ""
     name = "Now"
     url = "/now"
-    title = "What am I currently focussing on"
+    title = "What am I currently focusing on"
     weight = 1
   [[menu.main]]
     identifier = "posts"

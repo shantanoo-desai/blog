@@ -148,7 +148,7 @@ FROM mcr.microsoft.com/dotnet/aspnet:6.0-focal
 # Add those missing SDKs here
 ## Syntax: COPY --from=<registry/image:version> image_directory ProdStage__dest_directory
 COPY --from=mcr.microsoft.com/dotnet/sdk:2.1 /usr/share/dotnet /usr/share/dotnet/
-COPY --from=mcr.microsoft.com/dotnet/sdk:5.1 /usr/share/dotnet /usr/share/dotnet
+COPY --from=mcr.microsoft.com/dotnet/sdk:5.1 /usr/share/dotnet /usr/share/dotnet/
 
 # List all the SDKs / Runtimes available in the container
 CMD ["dotnet", "--list-sdks", "dotnet", "--list-runtimes"]
