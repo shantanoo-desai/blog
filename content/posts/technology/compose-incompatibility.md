@@ -26,7 +26,7 @@ Incompatibility in your currently running application stacks.
 
 There are lot of fine things in Compose V2 but this post isn't about it. This write-up takes you through the murky 
 marshland between Compose V1 and Compose V2 and how things might start you break when you decide to jump to the 
-_cool V2_ vers without doing some thorough checks in your stack application
+_cool V2_ version without doing some thorough checks in your stack application
 
 
 ## Swiss Knife for the Exploration
@@ -170,7 +170,7 @@ We will let Ansible install all the required Docker Compose versions for us in t
 
 ### Files for reproduction of incompatibility
 
-We wont be spinning to much complex stuff so a simple compose file and the relevant `.env.node-red`
+We wont be spinning too much complex stuff so a simple compose file and the relevant `.env.node-red`
 file with the encrypted password should suffice
 
 #### `docker-compose.yml`
@@ -219,7 +219,7 @@ $ docker-compose-129 --version
 $ docker compose version
 ```
 
-### Checks: Password not encloses in Single Quotes
+### Checks: Password not enclosed in Single Quotes
 
 As the `.env.node-red` file currently shows that my encrypted password is not enclosed in single quotes
 
@@ -267,7 +267,7 @@ version: '3.7'
 > NO Problem! My dollar characters are escaped by docker-compose. I can login with password `password`
 
 
-#### Compose v2 without single quotes)
+#### Compose v2 (without single quotes)
 
 ```bash
 docker compose config
@@ -298,7 +298,7 @@ Now let's enclose our encrypted password between single quotes, so our `.env.nod
 should look like:
 
 ```
-NODERED_ADMIN_PASSWORD=$2a$08$zZWtXTja0fB1pzD4sHCMyOCMYz2Z6dNbM6tl8sJogENOMcxWV9DN.
+NODERED_ADMIN_PASSWORD='$2a$08$zZWtXTja0fB1pzD4sHCMyOCMYz2Z6dNbM6tl8sJogENOMcxWV9DN.'
 ```
 
 #### Compose v1.25.4 (with single quotes)
@@ -381,7 +381,7 @@ __No Single Quotes__:
 
 - Docker Compose v1.25.4 was able to resolve special characters without having enclose them in single quotes
 - Docker Compose v1.29.2 will also work just fine for values not enclosed in single quotes
-- Docker Compose v2 will try go hay-wire (try to resolve the value after the `$` sign) if you do not use things in single quotes
+- Docker Compose v2 will try to go hay-wire (try to resolve the value after the `$` sign) if you do not use values in single quotes
 
 __With Single Quotes__:
 
