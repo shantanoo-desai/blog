@@ -70,7 +70,7 @@ package manager, we tell Packer to finish of this process by creating a tarball 
 Once the tarball is created, we extract it on the host for the simple reason that extracting the tarball within a docker 
 container generally leads to a lot of Failures when done through via Packer.
 
-We then spin up a container of the same base image copy the necessary files and folders into it. The main thing to note here
+We then spin up a container of the same base image, and copy the necessary files and folders into it. The main thing to note here
 is this container is brought up with `privileged` mode. Remember we will still need the host device to use Operating System
 Loop devices, to mount filesystems and create the final base image.
 
@@ -84,7 +84,7 @@ Within this phase we do the following via a dedicated shell script:
 
 The final result will be an `.img` as well as `.qcow2` image that can be tinkered with using QEMU.
 
-As a use you only need to execute a simple `make` command:
+As a user you only need to execute a simple `make` command:
 
 ```
 make ubuntu # or `make debian`
