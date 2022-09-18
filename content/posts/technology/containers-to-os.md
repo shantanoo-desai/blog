@@ -95,7 +95,7 @@ and at the end of the magical automation rainbow you will have a minimalist OS y
 
 At this point the following:
   - __Ubuntu__: 20.04, 22.04
-  - __Debian__: __bulleye__, __bookworm__
+  - __Debian__: __bullseye__, __bookworm__
 
 ## Potential Updates
 
