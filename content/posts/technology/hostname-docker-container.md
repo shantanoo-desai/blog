@@ -12,6 +12,26 @@ toc:
   auto: true
 ---
 <!--more-->
+## __UPDATE__
+
+With [Docker Compose v2.15.1](https://docs.docker.com/compose/release-notes/#2151)
+the solution is now trivial by simply using `uts: host` in a compose file as follows:
+
+```yaml
+services:
+  test:
+    image: alpine:latest
+    container_name: hostname-tester
+    command:
+      - hostname
+```
+
+Or by using the Docker CLI:
+
+```bash
+docker run --uts=host alpine:latest hostname
+```
+
 ## Setting Container Hostname to be same as your Host Machine
 
 Sounds trivial, but it turns out you need to do some tweaks in order to set the hostname
