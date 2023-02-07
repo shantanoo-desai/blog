@@ -22,6 +22,7 @@ services:
   test:
     image: alpine:latest
     container_name: hostname-tester
+    uts: host
     command:
       - hostname
 ```
