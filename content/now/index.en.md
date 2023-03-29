@@ -23,20 +23,22 @@ because that is the only thing I can control!
 
 - Improving and learning more about Operating Systems / Hardware Resources
     - Operating Systems
-        * __GNU/Linux__ by reading __Brian Ward's How Linux Works 2nd Edition (No Starch Press)__
+        * __GNU/Linux__ by __Brian Ward's How Linux Works 2nd Edition (No Starch Press)__
+    - Kernel Traceability
+        * __Learning eBPF__ by __Liz Rice__
 
 - Gettings hands dirty with __Infrastructure as Code__ / __DevOps__ fundamentals
     - Software Tools/Frameworks/Utilities:
         * Hashicorp `Packer`, `Vagrant`
         * RedHat's `Ansible`
         * GitLab CI/CD
+        * Ansible
 
 ## What I am working on Personally?
 
 - Understanding and improving myself on a personal level by reading about __Stoicism__
     * Improving upon slow-paced and meaningful reading
-    * Currently Reading: __Marcus Aurelius's Meditations (Penguine Classics Edition)__
-
+    * Currently Reading: __The Iliad by Homer__
 
 ## If I had more than 24 hours a day?
 
