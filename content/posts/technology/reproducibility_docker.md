@@ -88,7 +88,7 @@ The Maintainers had a look into it, but then came the nightmare answer of:
 ### Dread of "It works on my machine, can't reproduce it"
 
 After a few back and forth with the maintainer and even trying out certain examples, it felt like I had messed up
-my Docker Enginer with some configuration. It wasn't the case, since my configuration file was the least bit 
+my Docker Engine with some configuration. It wasn't the case, since my configuration file was the least bit 
 complicated and it was close to running an _out-of-the-box_ Docker Engine.
 
 It seemed like this was going to be one of those GitHub Issues that would be left open and gets lost in the 
@@ -115,7 +115,7 @@ specific paramters. The tool I had used was __Vagrant__.
 
 ## Isolate, Compare, Determine!
 
-I took the initiative of creating two __Isolated Vagrant Boxes__ with the following softwares:
+I took the initiative of creating two __Isolated Vagrant Boxes__ with the following software:
 
 | Vagrant Box | Docker Engine Version | Docker Compose Version(s) |
 |:-----------:|:---------------------:|:-------------------------:|
@@ -124,7 +124,7 @@ I took the initiative of creating two __Isolated Vagrant Boxes__ with the follow
 
 ### Documenting the Discrepancy!
 
-I dediced that I would rather add GIFs of the reproductiong of the errors as opposed to adding a lot of
+I decided that I would rather add GIFs of the reproduction of the errors as opposed to adding a lot of
 verbosity to an already complicated problem and create a repo that would reduce the time for the Bug reproduction.
 This does come with an assumption that the Maintainer would also have __Vagrant__ or something similar to test at their
 end.
