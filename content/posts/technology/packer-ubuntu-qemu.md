@@ -98,7 +98,7 @@ autoinstall:
         sudo: ALL=(ALL) NOPASSWD:ALL
         shell: /bin/bash
       - name: user1
-        plain_txt_passwd: packerubuntu
+        plain_text_passwd: packerubuntu
         lock-passwd: false
         shell: /bin/bash
 ```
