@@ -22,10 +22,9 @@ because that is the only thing I can control!
         * Build automation tool `GNU make`
 
 - Improving and learning more about Operating Systems / Hardware Resources
-    - Operating Systems
-        * __GNU/Linux__ by __Brian Ward's How Linux Works 2nd Edition (No Starch Press)__
-    - Kernel Traceability
-        * __Learning eBPF__ by __Liz Rice__
+    - Golang CLI
+        * __Powerful Command-Line Applications in Go__ by __Ricardo Gerardi__ (Pragmatic Programmers)
+        * __The Go Programming Language__ by __Alan A.A. Donovan__ & __Brian N. Kernighan__ (Addison-Wesley Professional)
 
 - Gettings hands dirty with __Infrastructure as Code__ / __DevOps__ fundamentals
     - Software Tools/Frameworks/Utilities:
