@@ -1,6 +1,6 @@
 ---
 title: "Telegraf Deployment Strategies with Docker Compose"
-date: "2023-07-20T17:00:00+02:00"
+date: "2023-07-20T11:52:00+02:00"
 draft: false
 
 author: "Shan"
