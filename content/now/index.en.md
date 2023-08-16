@@ -31,13 +31,12 @@ because that is the only thing I can control!
         * Hashicorp `Packer`, `Vagrant`
         * RedHat's `Ansible`
         * GitLab CI/CD
-        * Ansible
 
 ## What I am working on Personally?
 
 - Understanding and improving myself on a personal level by reading about __Stoicism__
     * Improving upon slow-paced and meaningful reading
-    * Currently Reading: __The Iliad by Homer__
+    * Currently Reading: __The Symposium by Plato__
 
 ## If I had more than 24 hours a day?
 
