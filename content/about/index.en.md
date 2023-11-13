@@ -12,7 +12,7 @@ fontawesome: true
 
 Howdy! I am Shantanoo, but you can call me Shan!
 
-I am a Research Scientist, who enjoys Software and System Development, Climbing, Bouldering, Reading.
+I am a Software Engineer for Edge Computing / IIoT, who enjoys Software and System Development, Climbing, Bouldering, Reading.
 
 # Work Experience
 
@@ -34,9 +34,12 @@ I am a Research Scientist, who enjoys Software and System Development, Climbing,
             + __Roles__: Software / Hardware Development for Edge/Fog Computing Infrastructure for Human-Robot Collaboration
             + __Software__: `Python`, `GitHub Workflows and Actions`, `RabbitMQ`, `Docker`, `Kubernetes`
 
-* Software Engineer for Edge Devices @ [Emerson Automation Solutions, Augsburg DE](https://www.emerson.com/de-de)
+* Software Engineer for Edge Devices @ [Emerson Discrete Automation, Augsburg DE](https://www.emerson.com/de-de)
   
     - Duration: __01.03.2022 to Present__
+    - Projects / Products:
+        - [PACEdge Edge Platform](https://www.emerson.com/en-us/catalog/emerson-pacedgecore): Edge Computing Platform for IIoT scenarios
+            + __Software Stack__: `Docker Engine`, `Docker Compose v2`, `Ansible`, `Hashicorp Packer`, `Bash`, `Python3.x`, `Golang`
 
 # Education
 
