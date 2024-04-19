@@ -35,7 +35,7 @@ The usage based on the Documentation was quite simple:
         'grafana_url=https://{{ ansible_host }}/grafana grafana_user=admin grafana_password={{ grafana_admin_pass }} search=fooDash'
       }}
  - ansible.builtin.debug:
-     var=existing_grafana_dashboards
+     var: existing_grafana_dashboards
 ```
 
 This plugin would simply connect to each Grafana dashboard instance in my inventory and try to search for existence of dashboards
@@ -56,7 +56,7 @@ Instincts told me to just add a `validate_certs=false` parameter to the lookup p
         validate_certs=false
       }}
  - ansible.builtin.debug:
-     var=existing_grafana_dashboards
+     var: existing_grafana_dashboards
 ```
 
 However it turns out I still got the same SSL verification error and upon inspecting the Upstream code, the plugin did not have an
@@ -168,7 +168,7 @@ Now a simple playbook called `test_dashboard_lookup.yml`
             validate_certs=false
           }}
     - ansible.builtin.debug:
-        var=local_dashboards
+        var: local_dashboards
 ```
 can be used to verify if things are working locally with a default Grafana Container setup with self-signed certs using:
 
