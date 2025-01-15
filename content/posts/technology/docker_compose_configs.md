@@ -57,7 +57,7 @@ services:
       - "no-new-privileges=true"
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.whoami.rule=Host(`whoami.localhost`)
+      - "traefik.http.routers.whoami.rule=Host(`whoami.localhost`)"
       - "traefik.http.routers.entrypoints=web"
       - "traefik.http.routers.middlewares=whoamiBasicAuth"
       - "traefik.http.middlewares.whoamiBasicAuth.basicauth.usersfile=/etc/traefik/adminuser"
@@ -100,7 +100,7 @@ configs:
       admin:$2y$08$1iQ3sGBP1ef/hAKTk2vjAOK8b66cULtTZ54lDR/4We6fpVK3SQGEq
 ```
 {{< admonition type=info title="encrypting creds in terminal" open=true >}}
-htpasswd -nb -B -C 8 admin testPaSS
+`htpasswd -nb -B -C 8 admin testPaSS`
 {{< /admonition >}}
 
 The main entrypoint compose YAML file will just need to include
