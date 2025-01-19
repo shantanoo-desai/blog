@@ -8,8 +8,8 @@ categories: ["Technology"]
 tags: ["devops", "ansible"]
 
 toc:
-enable: true
-auto: true
+  enable: true
+  auto: true
 ---
 <!--more-->
 # Structuring Ansible Inventories
