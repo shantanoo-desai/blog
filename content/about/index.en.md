@@ -62,7 +62,7 @@ I am a Software Engineer for Edge Computing / IIoT, who enjoys Software and Syst
 | __GitHub Stars__ | 250+  |
 | __Citations & Reads__ | 90+ and 5000+ |
 | __StackOverflow__ | 3.3k reputations  |
-| __LinkedIn___ | 650+ followers |
+| __LinkedIn__ | 650+ followers |
 
 # Language Proficiency
 
