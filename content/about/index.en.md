@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2020-05-14T14:55:46+02:00
+date: 2025-01-21T15:20:42+01:00
 draft: false
 
 toc:
@@ -12,7 +12,7 @@ fontawesome: true
 
 Howdy! I am Shantanoo, but you can call me Shan!
 
-I am a Software Engineer for Edge Computing / IIoT, who enjoys Software and System Development, Climbing, Bouldering, Reading.
+I am a Software Engineer for Edge Computing / IIoT, who enjoys Software and System Development, Climbing, Bouldering, and Reading.
 
 # Work Experience
 
@@ -39,7 +39,7 @@ I am a Software Engineer for Edge Computing / IIoT, who enjoys Software and Syst
     - Duration: __01.03.2022 to Present__
     - Projects / Products:
         - [PACEdge Edge Platform](https://www.emerson.com/en-us/catalog/emerson-pacedgecore): Edge Computing Platform for IIoT scenarios
-            + __Software Stack__: `Docker Engine`, `Docker Compose v2`, `Ansible`, `Hashicorp Packer`, `Bash`, `Python3.x`, `Golang`
+            + __Software Stack__: `Docker Engine`, `Docker Compose v2`, `Ansible`, `Hashicorp Packer`, `Bash`, `Python3.x`, `Golang`, `Makefile`, `GitLab-CI`, `Linux`
 
 # Education
 
@@ -54,6 +54,15 @@ I am a Software Engineer for Edge Computing / IIoT, who enjoys Software and Syst
 [Publication List On ResearchGate :(fab fa-researchgate): ](https://www.researchgate.net/profile/Shantanoo_Desai/research)
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=UVdO710AAAAJ&hl=en)
+
+# In Numbers
+
+| Entities         | Stats |
+|:-----------------|:------|
+| __GitHub Stars__ | 250+  |
+| __Citations & Reads__ | 90+ and 5000+ |
+| __StackOverflow__ | 3.3k reputations  |
+| __LinkedIn___ | 650+ followers |
 
 # Language Proficiency
 
