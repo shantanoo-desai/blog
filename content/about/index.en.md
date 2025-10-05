@@ -34,12 +34,16 @@ I am a Software Engineer for Edge Computing / IIoT, who enjoys Software and Syst
             + __Roles__: Software / Hardware Development for Edge/Fog Computing Infrastructure for Human-Robot Collaboration
             + __Software__: `Python`, `GitHub Workflows and Actions`, `RabbitMQ`, `Docker`, `Kubernetes`
 
-* Software Engineer for Edge Devices @ [Emerson Discrete Automation, Augsburg DE](https://www.emerson.com/de-de)
+* Lead Software Engineer for Edge Devices @ [Emerson Discrete Automation, Augsburg DE](https://www.emerson.com/de-de)
   
-    - Duration: __01.03.2022 to Present__
+    - Duration: __01.03.2022 to 30.09.2025__
     - Projects / Products:
         - [PACEdge Edge Platform](https://www.emerson.com/en-us/catalog/emerson-pacedgecore): Edge Computing Platform for IIoT scenarios
-            + __Software Stack__: `Docker Engine`, `Docker Compose v2`, `Ansible`, `Hashicorp Packer`, `Bash`, `Python3.x`, `Golang`, `Makefile`, `GitLab-CI`, `Linux`
+            + __Software Stack__: `Docker Engine`, `Docker Compose v2`, `Ansible`, `Hashicorp Packer`, `Bash`, `Python3.x`, `Makefile`, `GitLab-CI`, `Linux`
+
+* Python Infrastructure Developer @ [Mobileye Germany GmbH](https://mobileye.com)
+
+    - Duration: __01.10.2025 to present__
 
 # Education
 
@@ -60,7 +64,7 @@ I am a Software Engineer for Edge Computing / IIoT, who enjoys Software and Syst
 | Entities         | Stats |
 |:-----------------|:------|
 | __GitHub Stars__ | 250+  |
-| __Citations & Reads__ | 90+ and 5000+ |
+| __Citations & Reads__ | 100+ and 5000+ |
 | __StackOverflow__ | 3.3k reputations  |
 | __LinkedIn__ | 650+ followers |
 
