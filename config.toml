@@ -44,14 +44,12 @@ theme = "LoveIt"
       paginate = 10
 
 [params.social]
-  Devto = "shandesai"
   Email = "sdes.softdev@gmail.com"
   GitHub = "shantanoo-desai"
   GitLab = "shantanoo-desai"
   Googlescholar = "https://scholar.google.com/citations?hl=en&user=UVdO710AAAAJ"
   LinkedIn = "shantanoo-desai"
   Researchgate = "Shantanoo_Desai"
-  Stackoverflow = "4851126/shan-desai?tab=profile"
   Goodreads = "12116444-shantanoo-desai"
 
 [params.page.code]
