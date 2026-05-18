@@ -44,6 +44,9 @@ I am a Software Engineer for Edge Computing / IIoT, who enjoys Software and Syst
 * Python Infrastructure Developer @ [Mobileye Germany GmbH](https://mobileye.com)
 
     - Duration: __01.10.2025 to present__
+    - Projects / Products:
+        - Hardware-specific / High-Performance Computing (HPC) Farm Software and Observability Design
+            + __Software Stack__:  `Python`, `gRPC`, `protobuf`, `OpenTelemetry`, `GitLab-CI`, `nox`, `pytest`, `ansible`, `Linux`, `Prometheus`, `Grafana`, `Tempo`, `OpenSearch`
 
 # Education
 
