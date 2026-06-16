@@ -1,6 +1,6 @@
 ---
 title: pocker compose over podman-compose
-date: 2026-06-16T13:20:00
+date: 2026-06-16T13:30:00+01:00
 draft: false
 
 author: "Shan"
@@ -137,12 +137,14 @@ and upon deeper read of the description:
 
 ```
 This command is a thin wrapper around an external compose provider such as docker-compose or podman-compose.
-This means that podman compose is executing another tool that implements the compose functionality but sets up the environment
+This means that podman compose is executing another tool that implements the compose functionality
+but sets up the environment
 in a way to let the compose provider communicate transparently with the local Podman socket.
 The specified options as well the command and argument are passed directly to the compose provider.
 
 The default compose providers are docker-compose and podman-compose.
-If installed, docker-compose takes precedence since it is the original implementation of the Compose specification
+If installed, docker-compose takes precedence since it is the original implementation of the
+Compose specification
 and is widely used on the supported platforms (i.e., Linux, Mac OS, Windows).
 ```
 
@@ -277,7 +279,7 @@ In caveman language:
 > Podman with Docker Compose good!
 > Podman with `podman-compose` bad!
 
-With a nice playgorund already setup in [Iximiuz Labs for Podman](https://labs.iximiuz.com) (which I highly recommend you check out!)
+With a nice playground already setup in [Iximiuz Labs for Podman](https://labs.iximiuz.com) (which I highly recommend you check out!)
  - I spun up a system with podman in no-time
  - tried changes in no-time
  - verified things in no-time
