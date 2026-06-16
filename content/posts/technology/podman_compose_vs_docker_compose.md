@@ -1,6 +1,6 @@
 ---
 title: pocker compose over podman-compose
-date: 2026-05-16T113:00:00+01:00
+date: 2026-06-16T113:00:00+01:00
 draft: false
 
 author: "Shan"
