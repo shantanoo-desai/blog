@@ -1,5 +1,5 @@
 ---
-title: pocker compose over podman-compose
+title: podman compose over podman-compose
 date: 2026-06-16T13:30:00+01:00
 draft: false
 
